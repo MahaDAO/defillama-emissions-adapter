@@ -31,7 +31,7 @@ const maha: Protocol = {
   meta: {
     sources: ["https://docs.mahadao.com/the-maha-token/distribution"],
     token: "ethereum:0x745407c86df8db893011912d3ab28e68b62e49b0",
-    protocolIds: ["359", "2076", "2121", "2221", "2607"],
+    protocolIds: ["1475", "2360"],
   },
   sections: {
     insiders: ["Private Investors", "Team / Founders / Early Project Members"],
